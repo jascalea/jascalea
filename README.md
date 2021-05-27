@@ -1,5 +1,5 @@
 - 👋 Hi, I´m José Augusto 
-- 👀 I’m interested in learning programming 
+- 👀 I’m interested in learning programming languages
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate as a beginner in any C project
 - 📫 How to reach me........
