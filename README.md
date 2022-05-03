@@ -1,7 +1,7 @@
 - 👋 Hi, I´m José Augusto 
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate as a beginner in any C project
+- 🌱 I’m currently learning C and Python
+- 💞️ I’m looking to collaborate as a beginner in any C or Python project
 - 📫 How to reach me........
 
 <!---
